@@ -1,3 +1,5 @@
+# Jantina Toxopeus - apply glms to RNAi line phenotypes
+
 setwd("~/University/Post-Doc/RNAi")
 
 library(lme4) #package for running models
