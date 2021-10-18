@@ -1,3 +1,5 @@
+# Jantina Toxopeus - plot RNAi line phenotypes
+
 setwd("~/University/Post-Doc/RNAi")
 
 my.data <- read.csv("RNAiData_v6.csv", stringsAsFactors = FALSE)
