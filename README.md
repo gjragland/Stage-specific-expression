@@ -31,4 +31,4 @@ Count output - 'geneCounts.tar.gz'
  csv data file available in supplemental materials to publication
  
  * 'RNAiStatsv6.R' (apply glm models to RNAi phenotypes)
- * 'NAiPlotsv6.R' (plot RNAi phenotypes)
+ * 'RNAiPlotsv6.R' (plot RNAi phenotypes)
