@@ -1,6 +1,6 @@
 # Stage-specific-expression
 
-## Analysis of RNAseq data and RNAi phenotype for Freda et al., xx
+## Analysis of RNAseq data and RNAi phenotype for Freda et al., 2022
 
 Transcript mapping count data and code analyzing stage-specific patterns of gene expression during cold exposure in Drosophila melanogaster
 
